@@ -1,0 +1,10 @@
+.star-rating{
+    display: flex;
+    gap: 15px;
+}
+.star{
+    fill: yellow;
+}
+.star-empty {
+    fill: black;
+}
